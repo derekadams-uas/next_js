@@ -11,7 +11,7 @@ const About = () => {
             <Image />
             <p>I was a magician once!</p>
         </div>
-    )
+    );
 };
 
 export default About;
